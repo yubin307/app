@@ -1,5 +1,5 @@
 W03 
-fdsjk
+우송대 앞 메가커피 위치를 설명하는 코드
 
 <img width="488" height="850" alt="image" src="https://github.com/user-attachments/assets/ac151d77-0b28-4036-9bcb-3ffff843e757" />
 
