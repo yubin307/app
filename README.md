@@ -8,6 +8,8 @@ W04
 
 [202511025](https://github.com/user-attachments/assets/a6540f2b-92bc-49ff-9220-af0608e6406a)
 
+<img width="488" height="850" alt="image" src="<img width="488" height="850" alt="image" src="https://github.com/user-attachments/assets/ac151d77-0b28-4036-9bcb-3ffff843e757" />" />
+
 W05
 
 
